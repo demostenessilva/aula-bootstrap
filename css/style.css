@@ -1,8 +1,12 @@
 body {
-    background: hsla(92, 48%, 89%, 0.993);
+    background: #FFFFFF;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    max-width: 900px;
-    margin: auto;
+    font-size: 20px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
 }
 
 .img-logo {
@@ -42,8 +46,8 @@ body {
     padding: 10px;
     margin: 10px;
     margin-bottom: 15px;
-    border:3px solid black ;
-    border-radius: 10px;
+    
+  
     
 }
 
@@ -54,13 +58,7 @@ body {
     text-align: justify;
 
 }
-.post_image {
 
-    margin-bottom: 15px;
-    width: 100%;
-
-    
-    }
 
 .content_list {
     padding: 10px;
@@ -74,5 +72,8 @@ li {
     text-decoration: none;
 }
 
+.navbar {
+    background-color: #2EFE2E;
+}
 
 
