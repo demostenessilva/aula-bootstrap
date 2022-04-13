@@ -4,6 +4,12 @@ body {
     font-size: 20px;
 }
 
+.bg-footer {
+    padding: 10px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
 .margin {
     padding-bottom: 50px;
     padding-top: 10px;
@@ -75,5 +81,7 @@ li {
 .navbar {
     background-color: #2EFE2E;
 }
+
+
 
 
